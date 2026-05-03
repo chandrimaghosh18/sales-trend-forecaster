@@ -15,5 +15,5 @@ monthly sales revenue using an ARIMA model.
 Python · Pandas · Statsmodels · Matplotlib · Google Colab
 
 ## Charts
-![Sales Trend](sales_trend 2.png)
-![Forecast](sales_forecast_final 2.png)
+![Sales Trend](sales_trend.png)
+![Forecast](sales_forecast_final.png)
